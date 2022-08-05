@@ -1,0 +1,167 @@
+body {
+	background-color: black;
+	color: aliceblue;
+	margin: 40px;
+}
+
+.intro {
+	align-items: center;
+	text-align: center;
+	padding-top: 5%;
+	padding-right: 20%;
+	padding-left: 20%;
+	border: border-box;
+	border-radius: 10vh;
+	border-width: 10px;
+}
+
+.intro h1 {
+	font-family: 'Be Vietnam Pro', sans-serif;
+	font-size: xx-large;
+	font-weight: 900;
+}
+
+.intro p {
+	font-family: 'Raleway', sans-serif;
+	font-style: italic;
+	padding-bottom: 50px;
+}
+
+.Members h2 { 
+	font-family: 'Be Vietnam Pro', sans-serif; font-size: large; font-weight: 900; 
+	text-align: center;
+	padding-top: 50px;
+}
+
+.Members {
+	padding-left: 1%;
+	padding-right: 1%;
+}
+
+.Members p {
+	font-family: 'Be Vietnam Pro', sans-serif;
+	font-style: normal;
+	font-size: medium;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+
+.Rutbe {
+	align-items: center;
+	text-align: center;
+	padding-top: 3%;
+	padding-right: 40%;
+	padding-left: 40%;
+	border: border-box;
+	border-radius: 10vh;
+	border-width: 10px;
+	column-count: 1;
+	font-family: 'Raleway', sans-serif;
+}
+
+.Rutbe img {
+	padding-top: 15%;
+}
+
+.container-1 {
+	align-items: center;
+	text-align: center;
+	padding-top: 5%;
+	padding-right: 30%;
+	padding-left: 30%;
+	border: border-box;
+	border-radius: 10vh;
+	border-width: 10px;
+	border-top-width: 10px;
+	column-count: 2;
+	font-family: 'Raleway', sans-serif;
+}
+
+.container-1 img {
+	padding-top: 10%;
+}
+
+.container-2 {
+	align-items: center;
+	text-align: center;
+	padding-top: 5%;
+	padding-right: 10%;
+	padding-left: 10%;
+	border: border-box;
+	border-radius: 10vh;
+	border-width: 10px;
+	column-count: 5;
+	font-family: 'Raleway', sans-serif;
+}
+
+.container-2 img { 
+	padding-top: 10%;
+
+}
+
+.container-3 {
+	align-items: center;
+	text-align: center;
+	padding-top: 5%;
+	padding-right: 20%;
+	padding-left: 20%;
+	border: border-box;
+	border-radius: 10vh;
+	border-width: 10px;
+	column-count: 4;
+	font-family: 'Raleway', sans-serif;
+}
+
+.container-3 img {
+	padding-top: 10%;
+}
+
+.container-4 {
+	align-items: center;
+	text-align: center;
+	padding-top: 5%;
+	padding-right: 20%;
+	padding-left: 20%;
+	border: border-box;
+	border-radius: 10vh;
+	border-width: 10px;
+	column-count: 4;
+	font-family: 'Raleway', sans-serif;
+}
+
+.uye1 {
+/* From https://css.glass */
+box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+border: 4mm ridge rgba(242, 255, 0, 0.76);
+
+}
+
+.memtext {
+	display: flex;
+	align-items: center;
+	text-align: center;
+	color: white;
+	font-family: 'Be Vietnam Pro', sans-serif;
+	font-size: x-large;
+	font-weight: 600;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+.memtext::after,
+.memtext::before {
+  content: "";
+  border: 1px solid white;
+  flex: 1;
+}
+
+/* Space on left and right sides of text */
+.memtext:not(:empty)::before {
+  margin-right: 0.50em;
+}
+
+.memtext:not(:empty)::after {
+  margin-left: 0.50em;
+}
+
