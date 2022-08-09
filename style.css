@@ -62,6 +62,7 @@ body {
 
 .Rutbe img {
 	padding-top: 15%;
+	position: relative;
 }
 
 .container-1 {
@@ -80,6 +81,7 @@ body {
 
 .container-1 img {
 	padding-top: 10%;
+	position: relative;
 }
 
 .container-2 {
@@ -104,12 +106,12 @@ body {
 	align-items: center;
 	text-align: center;
 	padding-top: 5%;
-	padding-right: 8%;
-	padding-left: 8%;
+	padding-right: 10%;
+	padding-left: 10%;
 	border: border-box;
 	border-radius: 10vh;
 	border-width: 10px;
-	column-count: 5;
+	column-count: 4;
 	font-family: 'Raleway', sans-serif;
 }
 
@@ -140,6 +142,7 @@ backdrop-filter: blur(20px);
 backface-visibility: hidden;
 opacity: 100%;
 background-attachment: fixed;
+position: relative;
 }
 
 .memtext {
