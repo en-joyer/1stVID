@@ -9,7 +9,7 @@ I created this website. I've forked the CSS from various places. Also designed t
 
 
 - **Background**
-Parallax Pixel Background Animation | HTML & CSS https://www.youtube.com/watch?v=aywzn9cf-_U
+Parallax Pixel Background Animation | HTML & CSS rebrand.ly/exyl640
 - **Inline HR**
 https://codepen.io/oaviv/pen/GqXwYp
 [![](https://i.imgur.com/H0KlS58.png)](https://i.imgur.com/H0KlS58.png)
