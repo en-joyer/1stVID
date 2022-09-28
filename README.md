@@ -3,7 +3,7 @@
 ------------
 https://onestvid.onrender.com/
 
-I created this website. I've forked the CSS from various places. Also designed the logo. Wikipedia icons are used as a reference in icons of ranks.
+I created this website. I've forked some CSS styles from various places. These are at below. Rest of CSS coded by myself. Also designed the logo. Wikipedia icons are used as a reference in icons of ranks.
 
 ------------
 
