@@ -1,4 +1,1 @@
 * linguist-vendored
-*.* linguist-detectable=true
-*.css linguist-detectable=true
-*.svg linguist-detectable=false
