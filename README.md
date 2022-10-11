@@ -7,7 +7,7 @@ I created this website. I've forked some CSS styles from various places. In home
 
 ------------
 
--**Bulma**
+- **Bulma**
 https://bulma.io/
 - **Background**
 Parallax Pixel Background Animation | HTML & CSS rebrand.ly/exyl640
