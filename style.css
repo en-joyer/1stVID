@@ -113,12 +113,12 @@ body {
   align-items: center;
   text-align: center;
   padding-top: 5%;
-  padding-right: 20%;
-  padding-left: 20%;
+  padding-right: 40%;
+  padding-left: 40%;
   border: border-box;
   border-radius: 10vh;
   border-width: 10px;
-  column-count: 3;
+  column-count: 1;
   font-family: "Raleway", sans-serif;
 }
 
